@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Kodchasan:400,700&subset=latin-ext");
+html {
+  box-sizing: border-box;
+  font-family: "Kodchasan", sans-serif;
+}
